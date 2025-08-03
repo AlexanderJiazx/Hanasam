@@ -1,7 +1,7 @@
 # Hanasam
 
 **Hanasam** stands for **Hand as a Mouse**, which is a program that lets you use your hand to control your computer based on computer vision.
-![Uploading Hanasam.png…]()
+<img width="616" height="518" alt="Hanasam" src="https://github.com/user-attachments/assets/8996d1d8-1fd2-4615-a189-856dc2c1d001" />
 
 ## Before you start
 Hanasam is a project I wrote in 2024. The model is from Google's MediaPipe collection, and I did nearly nothing, so it's just a fun application of Google's hand landmarking model. You might find it useful in some very special cases.
