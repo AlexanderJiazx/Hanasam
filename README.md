@@ -1,6 +1,7 @@
 # Hanasam
 
 **Hanasam** stands for **Hand as a Mouse**, which is a program that lets you use your hand to control your computer based on computer vision.
+
 <img width="616" height="518" alt="Hanasam" src="https://github.com/user-attachments/assets/8996d1d8-1fd2-4615-a189-856dc2c1d001" />
 
 ## Before you start
